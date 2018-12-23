@@ -1,6 +1,6 @@
 import socket
 byte = 1024
-port = 25535  
+port = 15535  
 host = ""
 addr = (host, port)
 
